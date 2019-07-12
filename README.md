@@ -720,3 +720,16 @@ MVVM
 ## 十七、START 原则
 
 <https://baike.baidu.com/item/STAR%E5%8E%9F%E5%88%99>
+
+
+
+## 十八、面试总结
+
+公司名称：
+
+时间： 
+
+人事问题：
+
+技术问题：
+
